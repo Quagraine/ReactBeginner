@@ -19,6 +19,10 @@
       
   npm start
 
-  Open src
+  Open src folder:
+  
     index.js --this is the start point
+    
     App.js  -- contains fuctional components
+    
+    App.css -- style sheet
